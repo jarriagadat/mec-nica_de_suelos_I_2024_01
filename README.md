@@ -1,1 +1,1 @@
-# mec-nica_de_suelos_I_2024_01
+# mecanica_de_suelos_I_2024_01
